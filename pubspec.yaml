@@ -1,0 +1,79 @@
+name: foruda_language_app
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  audioplayers: ^6.0.0
+  flutter_native_splash: ^2.4.0
+  flutter_launcher_icons: ^0.13.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter_native_splash:
+  color: "#F7EBFD"
+  image: assets/images/spalsh_screen.png
+  android_12:
+    image: assets/images/spalsh_screen.png
+    color: "#F7EBFD"
+
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
+  min_sdk_android: 21
+
+
+
+  # flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/colors/
+    - assets/images/birds/
+    - assets/images/days/
+    - assets/images/family/
+    - assets/images/months/
+    - assets/images/numbers/
+    - assets/images/solar_system/
+    - assets/sounds/colors/
+    - assets/sounds/birds/
+    - assets/sounds/days/
+    - assets/sounds/family/
+    - assets/sounds/months/
+    - assets/sounds/numbers/
+    - assets/sounds/solar_system/
+    - assets/sounds/phrases/
+
+
+
+  fonts:
+    - family: NotoKufiArabic
+      fonts:
+        - asset: fonts/NotoKufiArabic-Medium.ttf
+
+    - family: NotoSerifJP
+      fonts:
+        - asset: fonts/NotoSerifJP-Black.otf
+
+
