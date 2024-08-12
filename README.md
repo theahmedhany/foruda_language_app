@@ -23,9 +23,9 @@ Foruda harnesses the power of Flutter to deliver a responsive, visually appealin
 
 ## Demo and Resources
 #### To see Foruda in action, check out the video below:
+https://github.com/user-attachments/assets/5acc3d17-dd00-42ac-9db6-5f5cb384964a
 
-
-#### Explore the application post on LinkedIn: <a target="_blank" href="************************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-forudaapp-activity-7228849076522373120-8vCF?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
